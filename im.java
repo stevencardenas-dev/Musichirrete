@@ -1,0 +1,13 @@
+import android.widget.FrameLayout;
+
+public final class im extends FrameLayout.LayoutParams {
+  public int a;
+  
+  public float b;
+}
+
+
+/* Location:              C:\Users\Kevin\Downloads\dex-tools-v2.4\dex-tools-v2.4\musicolet-dex2jar.jar!\im.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       1.1.3
+ */
